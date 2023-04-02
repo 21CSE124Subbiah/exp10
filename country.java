@@ -1,11 +1,4 @@
 package newex10;
-
-
-
-/**
- *
- * @author bhalaji
- */
 public class country {
 
     public String name;
